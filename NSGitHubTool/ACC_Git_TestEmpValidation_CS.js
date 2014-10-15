@@ -13,6 +13,6 @@
  * @returns {Boolean} True to continue save, false to abort save
  */
 function clientSaveRecord(){
-
+	alert("Please enter all mandatory fields");
     return true;
 }
