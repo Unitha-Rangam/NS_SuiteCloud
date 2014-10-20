@@ -14,5 +14,6 @@
  */
 function clientSaveRecord(){
 	alert("Please enter all mandatory fields");
+	alert("Hell0");
     return true;
 }
